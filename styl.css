@@ -45,11 +45,6 @@ footer{
     width: 100%;
 }
 
-table{
-    margin-left: 50px;
-    border: solid;
-}
-
 td{
     border: solid 1px yellow;
     padding: 20px;
