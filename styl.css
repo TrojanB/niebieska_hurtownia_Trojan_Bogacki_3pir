@@ -45,6 +45,11 @@ footer{
     width: 100%;
 }
 
+table{
+    margin-left: 50px;
+    border-spacing: 0;
+}
+
 td{
     border: solid 1px yellow;
     padding: 20px;
@@ -58,7 +63,10 @@ tr:hover{
 
 img{
     margin-top: 100px;
-    text-align: right;
+    float: left;
+}
+h3{
+    margin-top: 100px;
 }
 #in{
     margin-top: 10px;
